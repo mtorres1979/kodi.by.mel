@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="kodi.by.mel" name="Mel repository" version="0.0.2" provider-name="Melvin">
+	<extension point="xbmc.addon.repository" name="Mel Add-on Repository">
+		<info compressed="false">http://raw.github.com/mtorres1979/kodi.by.mel/master/addons.xml</info>
+		<checksum>http://raw.github.com/mtorres1979/kodi.by.mel/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/mtorres1979/kodi.by.mel/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Mel Addon</summary>
+		<description>Addon Description</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
